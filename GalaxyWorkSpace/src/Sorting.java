@@ -7,7 +7,7 @@ public class Sorting {
 		int intArray[] = new int[] { 15, 19, 18, 12, 11 };
 		int b[] = sortArray(intArray);
 		for (int i = 0; i < b.length; i++) {
-			System.out.println("Sort array is " + b[i]);
+			System.out.println("Sort array is sample " + b[i]);
 		}
 
 	}
